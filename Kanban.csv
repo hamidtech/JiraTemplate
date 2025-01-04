@@ -1,0 +1,6 @@
+"Issue Type","Summary","Description","Priority","Labels","Assignee"
+"Task","بررسی نیازمندی‌های هاست","جمع‌آوری مشخصات سرویس هاست و سرور مورد نیاز پروژه","Medium","Infrastructure","سعیدی"
+"Task","راه‌اندازی CI/CD","پیکربندی استقرار مداوم در Jenkins یا GitHub Actions","High","DevOps;CI_CD","رضایی"
+"Task","طراحی اولیه دیتابیس","تعیین ساختار جداول و روابط بین دیتابیس‌ها","High","Backend;Database",""
+"Task","اضافه کردن لاگینگ به سرویس‌ها","پیاده‌سازی Log برای ردیابی رویدادها و خطاها","Medium","Backend;Logging","احمدی"
+"Task","بهینه‌سازی سئو","بهبود رتبه وبسایت در موتورهای جست‌وجو (SEO)","Low","SEO;Marketing",""
